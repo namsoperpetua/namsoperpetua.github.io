@@ -1,0 +1,11 @@
+Account,Segment,ARR_USD,Adoption,Engagement,Support_Friction,Outcome_Progress,Renewal_Days,Health_Score,Status
+Atlas Health,Mid-Market,72000,86,82,18,88,145,85,Healthy
+Beacon Labs,SMB,28000,61,54,47,58,92,57,Watch
+Cedar Systems,Mid-Market,96000,42,39,66,35,64,36,At Risk
+Delta Works,Mid-Market,84000,73,68,31,71,121,71,Watch
+Evergreen AI,Enterprise,180000,91,89,12,94,188,91,Healthy
+Focal Cloud,SMB,32000,55,48,51,52,77,51,Watch
+Granite Group,Enterprise,210000,38,31,72,29,48,30,At Risk
+Harbor Tech,Mid-Market,65000,79,76,22,81,156,80,Healthy
+Ion Digital,Enterprise,165000,68,72,28,74,102,71,Watch
+Juniper Ops,SMB,24000,88,80,15,83,210,85,Healthy

@@ -1,0 +1,13 @@
+Ticket_ID,Category,Priority,First_Response_Min,Resolution_Hours,Repeat_Contact,Escalated,CSAT
+T-1001,Access,Medium,22,3.2,No,No,5
+T-1002,Product Bug,High,14,11.5,Yes,Yes,3
+T-1003,How-to,Low,38,1.1,No,No,5
+T-1004,Billing,Medium,31,5,No,No,4
+T-1005,Product Feedback,Low,44,2.8,Yes,No,4
+T-1006,Product Bug,High,17,8.2,Yes,Yes,3
+T-1007,How-to,Low,29,1.4,No,No,5
+T-1008,Access,Medium,25,4.1,Yes,No,4
+T-1009,Product Bug,High,19,12.3,Yes,Yes,2
+T-1010,Billing,Medium,34,4.7,No,No,4
+T-1011,Integration,High,16,15.4,Yes,Yes,3
+T-1012,How-to,Low,41,1.8,No,No,5

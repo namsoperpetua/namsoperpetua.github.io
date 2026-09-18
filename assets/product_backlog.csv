@@ -1,0 +1,5 @@
+Key,Theme,Problem,Evidence,Affected_Segment,Impact,Frequency,Effort,Strategic_Fit,Priority,Status,Proposed_Action
+VOC-101,Workflow,Users need manual help completing recurring workflow,Repeat support contacts,All,High,High,Medium,High,P1,Discovery,Simplify flow + contextual guidance
+VOC-102,Access,Users unclear on permissions and access path,Access tickets,SMB/Mid-Market,Medium,Medium,Low,Medium,P2,Ready,Improve onboarding + in-product guidance
+VOC-103,Reporting,Customers request clearer outcome reporting,QBR feedback,Enterprise,High,Medium,High,High,P2,Validate,Research reporting jobs-to-be-done
+VOC-104,Reliability,Recurring integration error creates escalations,Bug + escalation data,Enterprise,High,Medium,High,High,P1,Investigating,Root-cause + resilience plan
